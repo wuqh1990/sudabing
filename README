@@ -1,0 +1,1 @@
+这是一个文件采集系统，支持sftp协议和ftp协议。sftp协议使用jsch实现。ftp使用apache的commons-net实现。所有远程机器或者本地机器都可在数据库中配置。
